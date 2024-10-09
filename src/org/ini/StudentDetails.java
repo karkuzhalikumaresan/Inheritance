@@ -5,7 +5,7 @@ public class StudentDetails extends EmployeeDetails
 {
 
 	public void m3() {
-		// TODO Auto-generated method stub
+		System.out.println("Method 3");
 
 	}
 	
@@ -15,6 +15,7 @@ public class StudentDetails extends EmployeeDetails
 		
 		s.m1();
 		s.m2();
+		s.m3();
 		
 		
 	}
